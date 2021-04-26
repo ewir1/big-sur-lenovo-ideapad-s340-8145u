@@ -7,7 +7,7 @@
 
 
 ## Big sur - Tutorial installation: [Here](https://www.youtube.com/watch?v=EMEPmqgb15U&t=8s) 
-## Post installation - Enable Mac: [Here](https://www.youtube.com/watch?v=hYErHmYoUAE) 
+## Post installation - Enable Mac: [Here](https://www.youtube.com/watch?v=iR93emyzlsk) 
 ## Fix audio - Post installation: [Here](https://www.youtube.com/watch?v=hYErHmYoUAE) 
 
 
